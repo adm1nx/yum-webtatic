@@ -9,8 +9,7 @@ manipulation of `webtatic`, `webtatic-debuginfo`, `webtatic-source`,
 
 Requirements
 ------------
-* Chef 11 or higher
-* yum cookbook version 3.0.0 or higher
+* Chef 12.14 or higher
 
 Attributes
 ----------
